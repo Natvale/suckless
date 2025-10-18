@@ -7,3 +7,5 @@ Wallpaper by @tira_maid on Instagram
 - picom
 - hack font
 - fireshot
+- alsa-lib
+- alsa-utils
