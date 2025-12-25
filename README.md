@@ -6,6 +6,6 @@ Wallpaper by @tira_maid on Instagram
 - feh
 - picom
 - hack font
-- fireshot
+- flameshot
 - alsa-lib
 - alsa-utils
